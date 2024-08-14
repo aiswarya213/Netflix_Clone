@@ -1,0 +1,36 @@
+        p{
+            color: red;
+            border-style: dashed;
+            border-width: 20%;
+            border-radius: 5px;
+        }
+        h1{
+            color: blueviolet;
+        }
+        *div{
+            color: rgb(255, 205, 206);
+        }
+        
+        
+        body{
+            background-image: url(images/image.jpg);
+            background-color: rgb(244, 238, 244);
+            background-size: 20%;
+            background-repeat: no-repeat;
+            border-style: double;
+            border-width: 20%;
+            border-radius: 5px;
+            border-color: blueviolet;
+        }
+        h1{
+            text-align: center;
+            border-style: dotted;
+        
+        }
+        body{
+            
+            background-color: rgb(207, 207, 230);
+            
+    
+        }
+        
